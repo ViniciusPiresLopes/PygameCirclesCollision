@@ -1,2 +1,2 @@
 # PygameCirclesCollision
-A simple circles collision with pygame.
+Circles collisions with pygame.
